@@ -1,8 +1,12 @@
 # CoT-KA
 Official implementation for the paper: Chain of Thought Prompting Elicits Knowledge Augmentation (Accepted by Findings of ACL 2023).
 
-<p>
+<!-- <p>
   <img src="./img/model.png" width="50%" height="auto">
+</p> -->
+
+<p>
+  <img src="./img/model.png">
 </p>
 
 # Setup
