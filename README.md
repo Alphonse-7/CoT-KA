@@ -1,3 +1,5 @@
+Please visit the project repository to obtain the **latest** code and data: https://github.com/RUCKBReasoning/CoT-KA
+
 # CoT-KA
 Official implementation for the paper: Chain of Thought Prompting Elicits Knowledge Augmentation (Accepted by Findings of ACL 2023).
 
